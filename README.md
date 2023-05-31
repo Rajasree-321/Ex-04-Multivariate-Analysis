@@ -48,5 +48,20 @@ df.info()
 
 ![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/2889f267-2495-4d93-9752-7eea5247c292)
 
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/bae7a291-8bed-43b8-ba59-141f3d7dec92)
+
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/ba0635b9-f61d-4f22-ac97-886793f34db9)
+
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/7418ca5d-c82f-47f6-aac8-745b435e2aad)
+
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/b7875902-430e-4360-be24-6c4d774acf2d)
+
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/bda5a740-3d19-483f-920d-7af830470519)
+
+![image](https://github.com/Rajasree-321/Ex-04-Multivariate-Analysis/assets/96918911/7b02d5ce-b6d6-4dbd-8bc1-fd8b43cb0036)
+
+
+# RESULT
+Thus the program to perform EDA on the given data set is successfully executed.
 
 
